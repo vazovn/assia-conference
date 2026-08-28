@@ -29,8 +29,6 @@ echo "wget: $(wget --version | head -1)"
 
 
 # Download and unzip the installer
-#wget -P /Users/$USER/Desktop/NDP-view2/ https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/static/sys/en/download/NDP.view%202.9.29%20RUO.zip
-
 wget -P /Users/$USER/Desktop/NDP-view2/ https://www.hamamatsu.com/content/dam/hamamatsu-photonics/sites/static/sys/en/download/NDP.view%202.10.0%20RUO%20Setup.zip
 
 
